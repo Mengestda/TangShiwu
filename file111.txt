@@ -4,3 +4,6 @@
 	second try for ssh, this time push by ssh
 	
 	third time try after change remote 
+	
+	
+	try pull after changing the file
