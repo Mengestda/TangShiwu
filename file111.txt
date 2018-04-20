@@ -7,3 +7,7 @@
 	
 	
 	try pull after changing the file
+	
+	
+	
+	try  pull 
